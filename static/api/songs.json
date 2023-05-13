@@ -42,7 +42,61 @@
   {
     "album": "Kesoku Band (Album)",
     "cover": "https://img1.ak.crunchyroll.com/i/spire1/454f4a6ecb6a5980d75411d0932508091673053904_large.png",
-    "artist": "Kessoku Band"
+    "artist": "Kessoku Band",
+    "list": [
+      {
+        "title": "Sesyun complex",
+        "url": ""
+      },
+      {
+        "title": "Hitoribocchi tokyo",
+        "url": ""
+      },
+      {
+        "title": "Distorion!!",
+        "url": ""
+      },
+      {
+        "title": "Secret base",
+        "url": ""
+      },
+      {
+        "title": "Guitar, Loneliness and Blue Planet",
+        "url": ""
+      },
+      {
+        "title": "I can't sing a love song",
+        "url": ""
+      },
+      {
+        "title": "That band",
+        "url": ""
+      },
+      {
+        "title": "Karakara",
+        "url": ""
+      },
+      {
+        "title": "The Little Sea",
+        "url": ""
+      },
+      {
+        "title": "What is wrong with",
+        "url": ""
+      },
+      {
+        "title": "If I could be a constellation",
+        "url": ""
+      },
+      {
+        "title": "Flashbacker",
+        "url": ""
+      },
+      {
+        "title": "Rockn' Roll, Morning Light Falls on You",
+        "url": ""
+      }
+    ]
   },
   {
     "album": "The king of the cake fight",
