@@ -12,6 +12,10 @@
             link: "/find",
             title: "find",
         },
+        {
+            link: "/player",
+            title: "player",
+        }
     ];
 </script>
 
