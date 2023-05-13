@@ -20,9 +20,8 @@
         <li>{i + 1}. {title}</li>
       {/each}
     </ul>
+    <AudioControlls tracks={list}/>
   {/await}
-
-  <AudioControlls />
 </section>
 
 <style>

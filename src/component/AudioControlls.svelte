@@ -1,4 +1,7 @@
 <script>
+  let index = 0;
+  export const tracks = [{title:"", url:""}];
+  let track = tracks[index].url;
   let player = new Audio();
   let isPlaying = false;
 
@@ -27,7 +30,7 @@
 
 <section>
   <audio bind:this={player}>
-    <source src="/music/illicitAffairs.mp3" type="audio/mpeg" />
+    <source src={track} type="audio/mpeg" />
   </audio>
   <input type="range" bind:value={progress} min="0" max={player.duration} />
   <div>
